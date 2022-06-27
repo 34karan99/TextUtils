@@ -1,0 +1,19 @@
+.main{
+    border-radius: 2rem;
+}
+
+.head{
+    padding-top: 2rem;
+    margin-left: 2rem;
+}
+
+.text-column{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 90%;
+    box-shadow: 0px 0px 8px rgb(30, 125, 180);
+}
+
+.btn{
+    box-shadow: 0px 0px 8px #888;
+}
